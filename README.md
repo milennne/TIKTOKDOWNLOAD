@@ -5,7 +5,7 @@ Aplicación web amigable para descargar videos de TikTok en alta calidad o de fo
 ### 1. Clona el repositorio
 ```bash
 git clone https://github.com/milennne/sem04_practica.git
-cd tiktok-downloader
+cd TIKTOKDOWNLOAD
 ```
 *(Nota: Cambia `tu-usuario` y la URL por el enlace real de tu repositorio de GitHub)*
 
