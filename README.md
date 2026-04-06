@@ -9,9 +9,9 @@ cd TIKTOKDOWNLOAD
 ```
 
 > ⚠️ Si ya corriste una versión anterior, elimina el contenedor antes de correr la siguiente:
-> bash
+> ```bash
 > docker rm -f video-app
-
+>```
 
 
 ### 2. Elige una versión y ejecútala
